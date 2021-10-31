@@ -1,6 +1,6 @@
 # swipe_card_stack
 
-A new Flutter project.
+Flutter swipe card stack widget
 
 ## Getting Started
 
