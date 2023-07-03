@@ -1,4 +1,3 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SnowStar0423&layout=compact)
 # swipe_card_stack
 
 Flutter swipe card stack widget
